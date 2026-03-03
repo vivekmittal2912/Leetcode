@@ -1,2 +1,2 @@
 # Leetcode
-Initiating this to start Programming Journey from 2026
+Initiating Programming Journey from 2026
